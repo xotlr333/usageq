@@ -1,0 +1,3 @@
+
+rootProject.name = 'usage-management'
+include 'common', 'usage-query', 'usage-management'
