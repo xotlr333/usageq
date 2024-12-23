@@ -1,4 +1,4 @@
-package com.telco.management.entity;
+package com.telco.query.entity;
 
 import jakarta.persistence.*;
 import lombok.AccessLevel;

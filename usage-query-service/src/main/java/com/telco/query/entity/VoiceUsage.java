@@ -10,7 +10,6 @@ import lombok.NoArgsConstructor;
 @Getter
 @NoArgsConstructor(access = AccessLevel.PROTECTED)
 public class VoiceUsage extends BaseUsage {
-    
     @Builder
     public VoiceUsage(long totalUsage, long freeUsage) {
         super(totalUsage, freeUsage);
